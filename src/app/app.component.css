@@ -1,0 +1,70 @@
+h1
+{
+    color: #FFFFFF;
+}
+
+#booking_table
+{
+    background-color: #FFFFFF;
+    border: 1px solid #082db2;
+    border-collapse: collapse;
+    display: inline-block;
+}
+
+#booking_table td,#booking_table th
+{
+    border: 1px solid #082db2;
+}
+
+#booking_table th
+{
+    background-color: #42c2f4;
+    color: #FFFFFF;
+    font-weight: 900;
+}
+
+#booking_table_booking_id,#booking_table_client,#booking_table_creation_date,#booking_table_prize
+{
+    width: 150px;
+}
+
+#booking_table_address
+{
+    width: 500px;
+}
+
+.booking_table_address_td
+{
+    padding-left: 10px;
+    text-align: left;
+}
+
+#filter_zone
+{
+    background-color: #FFFFFF;
+    border: 1px solid #EEEEEE;
+    display: inline-block;
+    margin-bottom: 20px;
+    padding: 5px;
+    text-align: left;
+    width: 1104px;
+}
+
+#filter_text
+{
+    margin-left: 5px;
+    margin-right: 20px;
+    width: 200px;
+}
+
+#filter_button
+{
+    background-color: #f44268;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 900;
+    padding: 5px 5px;
+    text-align: center;
+    width: 80px;
+}
